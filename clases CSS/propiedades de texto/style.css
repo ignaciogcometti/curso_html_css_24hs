@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+}
+
+.la_mejor_parte {
+    color: rgb(154, 133, 12);
+}
+
+#postre {
+    color: rgb(134, 63, 12);
+}
+
+h2 {
+    color:rgb(2, 2, 94);
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+    font-style:normal;
+    text-align: center;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+
+p{
+    font-weight: 300;   
+    font-style:normal;
+    text-align: center;
+    font-family: "Prompt";
+    font-weight: 100;
+}
